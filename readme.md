@@ -22,10 +22,6 @@ The table below summarizes how samples are distributed across the training and t
 
 <img width="726" height="158" alt="image" src="https://github.com/user-attachments/assets/1234c3df-d515-4bdf-b6ed-660ab803f1e1" />
 
-> **Note:** Bootstrap resampling is applied exclusively to the training partition, after the train-test split is finalized. The test set (n = 92) is held out and not modified in any way.
-
-> **Dataset availability:** The raw data files are subject to institutional data-sharing constraints. Parties interested in accessing the dataset for replication purposes are encouraged to contact the corresponding author directly.
-
 ---
 
 ## Models
